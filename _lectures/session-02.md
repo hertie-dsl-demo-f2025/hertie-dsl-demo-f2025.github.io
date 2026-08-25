@@ -4,8 +4,15 @@ date: 2025-09-16T10:00:00
 title: "Session 2"
 subtitle: "Deep neural networks (1)"
 description: "Perceptrons, activation functions and the forward pass; why depth buys representationa l power."
-unreleased: true
-readings_pending: true
-links: []
+reading_list: |2
+  ### Session 2 readings
+
+  Work through the interactive chapters before class - nothing to download:
+
+  https://www.deeplearningbook.org/contents/mlp.html
+  https://playground.tensorflow.org/
+links:
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/lectures/02_deep-neural-networks-1/Session2_E1394_DL.pdf
+      name: "lecture - Session2_E1394_DL.pdf"
 ---
-Materials for session 2 are not released yet - they will appear in `materials/lectures/02_deep-neural-networks-1`, `materials/readings/02_deep-neural-networks-1` when released.
+

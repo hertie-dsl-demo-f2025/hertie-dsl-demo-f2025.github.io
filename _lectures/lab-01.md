@@ -3,7 +3,10 @@ type: lab
 date: 2025-09-11T14:00:00
 title: "Lab 1"
 subtitle: "Lab 1"
-unreleased: true
-links: []
+links:
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/labs/01_deep-learning-in-public-policy/Lab_Session_1.ipynb
+      name: "lab - Lab_Session_1.ipynb"
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/labs/01_deep-learning-in-public-policy/Lab_session_1_Introduction_to_pandas.ipynb
+      name: "lab - Lab_session_1_Introduction_to_pandas.ipynb"
 ---
-Materials for lab 1 are not released yet - they will appear in `materials/labs/01_deep-learning-in-public-policy` when released.
+

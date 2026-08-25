@@ -3,7 +3,8 @@ type: lab
 date: 2025-10-16T14:00:00
 title: "Lab 6"
 subtitle: "Lab 6"
-unreleased: true
-links: []
+links:
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/labs/06_sequence-methods-and-time-series/Lab_session_6_%26_7.ipynb
+      name: "lab - Lab_session_6_&_7.ipynb"
 ---
-Materials for lab 6 are not released yet - they will appear in `materials/labs/06_sequence-methods-and-time-series` when released.
+

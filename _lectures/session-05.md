@@ -4,8 +4,14 @@ date: 2025-10-07T10:00:00
 title: "Session 5"
 subtitle: "Computer vision (2): Modern CNNs, implementation and applications"
 description: "Residual connections and modern architectures, with applications to satellite imagery for policy."
-unreleased: true
-readings_pending: true
-links: []
+links:
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/lectures/05_computer-vision-2-modern-cnns/Session5_E1394_DL_Lecture.pdf
+      name: "lecture - Session5_E1394_DL_Lecture.pdf"
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/05_computer-vision-2-modern-cnns/1512.02325v5.pdf
+      name: "reading - 1512.02325v5.pdf"
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/05_computer-vision-2-modern-cnns/41586_2021_3957_MOESM1_ESM-2.pdf
+      name: "reading - 41586_2021_3957_MOESM1_ESM-2.pdf"
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/05_computer-vision-2-modern-cnns/U-Net_%20Convolutional%20Networks%20for%20Biomedical%20Image%20Segmentation.pdf
+      name: "reading - U-Net_ Convolutional Networks for Biomedical Image Segmentation.pdf"
 ---
-Materials for session 5 are not released yet - they will appear in `materials/lectures/05_computer-vision-2-modern-cnns`, `materials/readings/05_computer-vision-2-modern-cnns` when released.
+

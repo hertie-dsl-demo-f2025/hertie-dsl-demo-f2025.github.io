@@ -4,8 +4,35 @@ date: 2025-11-11T10:00:00
 title: "Session 10"
 subtitle: "Policy approaches to regulate deep learning"
 description: "Regulation, auditing and the documented harms of large models, with the EU AI Act as t he worked case."
-unreleased: true
-readings_pending: true
-links: []
+reading_list: |2
+  ### Session 10 readings
+
+  #### Required Readings
+
+  - Bender et al. (2021), "On the Dangers of Stochastic Parrots".
+  - Kaack et al., "Aligning artificial intelligence with climate change mitigation".
+  - Amarasinghe et al. (2020), "Explainable machine learning for public policy".
+  - Leslie, D., *Understanding AI ethics and safety*, Alan Turing Institute.
+  - *HAI AI Index Report 2024*, Stanford. Too large to host; read online:
+    https://aiindex.stanford.edu/report/
+
+  The other four are PDFs below.
+
+  #### Optional Readings
+
+  - EU AI Act, final text. <https://artificialintelligenceact.eu/the-act/>
+links:
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/10_policy-approaches-and-responsible-implementation/2101.03989v2.pdf
+      name: "reading - 2101.03989v2.pdf"
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/10_policy-approaches-and-responsible-implementation/2108.07258v3.pdf
+      name: "reading - 2108.07258v3.pdf"
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/10_policy-approaches-and-responsible-implementation/Amarasinghe%2C%20K.%2C%20Rodolfa%2C%20K.%2C%20Lamba%2C%20H.%2C%20%20Ghani%2C%20R.%20%282020%29.%20Explainable%20machine%20learning%20for%20public%20policy%20Use%20cases%2C%20gaps%2C%20and%20research%20directions.%20arXiv%20preprint%20arXiv2010.14374..pdf
+      name: "reading - Amarasinghe, K., Rodolfa, K., Lamba, H., Ghani, R. (2020). Explainable machine learning for public policy Use cases, gaps, and research directions. arXiv preprint arXiv2010.14374..pdf"
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/10_policy-approaches-and-responsible-implementation/Kaack_Aligning%20artificial%20intelligence%20with%20climate%20change%20mitigation.pdf
+      name: "reading - Kaack_Aligning artificial intelligence with climate change mitigation.pdf"
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/10_policy-approaches-and-responsible-implementation/On%20the%20dangers%20of%20stochastic%20parrots%20-%20Can%20language%20models%20be%20too%20big.pdf
+      name: "reading - On the dangers of stochastic parrots - Can language models be too big.pdf"
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/10_policy-approaches-and-responsible-implementation/understanding_artificial_intelligence_ethics_and_safety.pdf
+      name: "reading - understanding_artificial_intelligence_ethics_and_safety.pdf"
 ---
-Materials for session 10 are not released yet - they will appear in `materials/readings/10_policy-approaches-and-responsible-implementation` when released.
+

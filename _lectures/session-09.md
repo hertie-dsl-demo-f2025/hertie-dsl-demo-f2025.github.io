@@ -4,8 +4,12 @@ date: 2025-11-04T10:00:00
 title: "Session 9"
 subtitle: "Further topics in deep learning"
 description: "Uncertainty quantification, generative models, and the state of the research frontier."
-unreleased: true
-readings_pending: true
-links: []
+links:
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/09_further-topics/Gawlikowski.pdf
+      name: "reading - Gawlikowski.pdf"
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/09_further-topics/references.bib
+      name: "reading - references.bib"
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/09_further-topics/seminar-notes.md
+      name: "reading - seminar-notes.md"
 ---
-Materials for session 9 are not released yet - they will appear in `materials/readings/09_further-topics` when released.
+
