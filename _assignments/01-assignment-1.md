@@ -5,14 +5,14 @@
 type: assignment
 date: 2025-09-23T14:00:00
 title: "Assignment 1"
-subtitle: "Linear regression from scratch"
+subtitle: "linear regression from scratch (individual)"
 repo_url: "https://github.com/orgs/hertie-dsl-demo-f2025/repositories?q=assignment-1-"
 repo_name: "assignment-1-<your-handle>"
 due_event:
     type: due
     date: 2025-10-14T23:59:00
     description: "Assignment 1"
-    subtitle: "Linear regression from scratch"
+    subtitle: "linear regression from scratch (individual)"
     repo_url: "https://github.com/orgs/hertie-dsl-demo-f2025/repositories?q=assignment-1-"
     repo_name: "assignment-1-<your-handle>"
 ---

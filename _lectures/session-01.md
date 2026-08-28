@@ -5,8 +5,6 @@
 type: lecture
 date: 2025-09-09T10:00:00
 title: "Session 1"
-subtitle: "Deep learning in public policy"
-description: "What deep learning is, where it already sits in public-sector decision making, and wha t this course will and will not claim for it."
 reading_list: |2
   ### Session 1 readings
 

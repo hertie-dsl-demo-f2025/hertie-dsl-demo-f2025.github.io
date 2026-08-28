@@ -5,8 +5,6 @@
 type: lecture
 date: 2025-11-11T10:00:00
 title: "Session 10"
-subtitle: "Policy approaches to regulate deep learning"
-description: "Regulation, auditing and the documented harms of large models, with the EU AI Act as t he worked case."
 reading_list: |2
   ### Session 10 readings
 

@@ -3,7 +3,7 @@
 # rewrites this whole collection on every run. Edit the source instead: the cohort's
 # classroom-config/schedule.yml (dates, titles) or its org structure (what released).
 type: lab
-date: 2025-09-18T14:00:00
+date: 2025-09-16T10:00:00
 title: "Lab 2"
 links:
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/labs/02_deep-neural-networks-1/Lab_Session_2.ipynb

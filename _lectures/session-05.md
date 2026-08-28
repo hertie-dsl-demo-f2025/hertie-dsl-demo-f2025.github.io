@@ -5,8 +5,6 @@
 type: lecture
 date: 2025-10-07T10:00:00
 title: "Session 5"
-subtitle: "Computer vision (2): Modern CNNs, implementation and applications"
-description: "Residual connections and modern architectures, with applications to satellite imagery for policy."
 links:
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/lectures/05_computer-vision-2-modern-cnns/Session5_E1394_DL_Lecture.pdf
       name: "lecture - Session5_E1394_DL_Lecture.pdf"

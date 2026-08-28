@@ -3,7 +3,7 @@
 # rewrites this whole collection on every run. Edit the source instead: the cohort's
 # classroom-config/schedule.yml (dates, titles) or its org structure (what released).
 type: exam
-date: 2025-12-16T10:00:00
+date: 2025-12-19T09:00:00
 description: "Final Exam"
 ---
 Details to be confirmed.

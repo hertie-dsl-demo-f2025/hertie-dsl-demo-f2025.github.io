@@ -3,7 +3,7 @@
 # rewrites this whole collection on every run. Edit the source instead: the cohort's
 # classroom-config/schedule.yml (dates, titles) or its org structure (what released).
 type: lab
-date: 2025-11-06T14:00:00
+date: 2025-11-04T10:00:00
 title: "Lab 9"
 links:
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/labs/09_further-topics/Lab_Session_9_%26_10.ipynb
