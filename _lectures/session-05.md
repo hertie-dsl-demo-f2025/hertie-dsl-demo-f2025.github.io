@@ -5,13 +5,27 @@
 type: lecture
 date: 2025-10-07T10:00:00
 title: "Session 5"
+reading_list: |2
+  ### Session 5 readings
+
+  #### Required Readings
+
+  - Liu et al. (2016), "SSD: Single Shot MultiBox Detector".
+    PDF below, and <https://arxiv.org/abs/1512.02325>
+  - Ronneberger et al. (2015), "U-Net: Convolutional Networks for Biomedical Image
+    Segmentation". PDF below, and <https://arxiv.org/abs/1505.04597>
+
+  #### Optional Readings
+
+  - Kruitwagen et al. (2021), "A global inventory of photovoltaic solar energy generating
+    units", *Nature* 598 - supplementary information. Read online at nature.com.
+
+  *This is a public repository, so copyrighted readings are cited rather than redistributed.*
 links:
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/lectures/05_computer-vision-2-modern-cnns/Session5_E1394_DL_Lecture.pdf
       name: "lecture - Session5_E1394_DL_Lecture.pdf"
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/05_computer-vision-2-modern-cnns/1512.02325v5.pdf
       name: "reading - 1512.02325v5.pdf"
-    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/05_computer-vision-2-modern-cnns/41586_2021_3957_MOESM1_ESM-2.pdf
-      name: "reading - 41586_2021_3957_MOESM1_ESM-2.pdf"
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/05_computer-vision-2-modern-cnns/U-Net_%20Convolutional%20Networks%20for%20Biomedical%20Image%20Segmentation.pdf
       name: "reading - U-Net_ Convolutional Networks for Biomedical Image Segmentation.pdf"
 ---

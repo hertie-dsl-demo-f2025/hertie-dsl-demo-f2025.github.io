@@ -10,18 +10,24 @@ reading_list: |2
 
   #### Required Readings
 
-  - Bender et al. (2021), "On the Dangers of Stochastic Parrots".
-  - Kaack et al., "Aligning artificial intelligence with climate change mitigation".
+  - Bender et al. (2021), "On the Dangers of Stochastic Parrots", ACM FAccT '21.
+    Available through the ACM Digital Library.
+  - Kaack et al. (2022), "Aligning artificial intelligence with climate change mitigation",
+    *Nature Climate Change* 12. Available through the Hertie library.
   - Amarasinghe et al. (2020), "Explainable machine learning for public policy".
-  - Leslie, D., *Understanding AI ethics and safety*, Alan Turing Institute.
+    PDF below, and <https://arxiv.org/abs/2010.14374>
+  - Leslie, D., *Understanding artificial intelligence ethics and safety*, Alan Turing
+    Institute. PDF below.
+  - Bommasani et al., "On the Opportunities and Risks of Foundation Models". PDF below.
+  - Lavin et al., "Technology Readiness Levels for Machine Learning Systems". PDF below.
   - *HAI AI Index Report 2024*, Stanford. Too large to host; read online:
-    https://aiindex.stanford.edu/report/
-
-  The other four are PDFs below.
+    <https://aiindex.stanford.edu/report/>
 
   #### Optional Readings
 
   - EU AI Act, final text. <https://artificialintelligenceact.eu/the-act/>
+
+  *This is a public repository, so copyrighted readings are cited rather than redistributed.*
 links:
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/10_policy-approaches-and-responsible-implementation/2101.03989v2.pdf
       name: "reading - 2101.03989v2.pdf"
@@ -29,10 +35,6 @@ links:
       name: "reading - 2108.07258v3.pdf"
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/10_policy-approaches-and-responsible-implementation/Amarasinghe%2C%20K.%2C%20Rodolfa%2C%20K.%2C%20Lamba%2C%20H.%2C%20%20Ghani%2C%20R.%20%282020%29.%20Explainable%20machine%20learning%20for%20public%20policy%20Use%20cases%2C%20gaps%2C%20and%20research%20directions.%20arXiv%20preprint%20arXiv2010.14374..pdf
       name: "reading - Amarasinghe, K., Rodolfa, K., Lamba, H., Ghani, R. (2020). Explainable machine learning for public policy Use cases, gaps, and research directions. arXiv preprint arXiv2010.14374..pdf"
-    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/10_policy-approaches-and-responsible-implementation/Kaack_Aligning%20artificial%20intelligence%20with%20climate%20change%20mitigation.pdf
-      name: "reading - Kaack_Aligning artificial intelligence with climate change mitigation.pdf"
-    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/10_policy-approaches-and-responsible-implementation/On%20the%20dangers%20of%20stochastic%20parrots%20-%20Can%20language%20models%20be%20too%20big.pdf
-      name: "reading - On the dangers of stochastic parrots - Can language models be too big.pdf"
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/10_policy-approaches-and-responsible-implementation/understanding_artificial_intelligence_ethics_and_safety.pdf
       name: "reading - understanding_artificial_intelligence_ethics_and_safety.pdf"
 ---
