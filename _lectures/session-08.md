@@ -18,15 +18,11 @@ links:
       name: "lecture - Session8_E1394_DL SECOND SESSION.pdf"
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/lectures/08_nlp-2-encoder-decoder-and-attention/Session8_E1394_DL.pdf
       name: "lecture - Session8_E1394_DL.pdf"
-    - url: https://github.com/hertie-dsl-demo-f2025/materials/tree/main/lectures/08_nlp-2-encoder-decoder-and-attention
-      name: "lecture - browse the folder"
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/08_nlp-2-encoder-decoder-and-attention/Alexey%20Dosovitskiy%2C%20Lucas%20Beyer%2C%20Alexander%20Kolesnikov%2C%20Dirk%20Weissenborn%20-%20An%20Image%20is%20Worth%2016x16%20Words%20Transformers%20for%20Image%20Recognition%20at%20Scale.pdf
       name: "reading - Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn - An Image is Worth 16x16 Words Transformers for Image Recognition at Scale.pdf"
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/08_nlp-2-encoder-decoder-and-attention/Ashish%20Vaswani%2C%20Noam%20Shazeer%2C%20Niki%20Parmar%2C%20Jakob%20Uszkoreit%2C%20Llion%20Jones%2C%20Aidan%20N.%20Gomez%2C%20Lukasz%20Kaiser%2C%20Illia%20Polosukhin%20-%20Attention%20Is%20All%20You%20Need.pdf
       name: "reading - Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin - Attention Is All You Need.pdf"
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/08_nlp-2-encoder-decoder-and-attention/Jacob%20Devlin%2C%20Ming-Wei%20Chang%2C%20Kenton%20Lee%2C%20Kristina%20Toutanova%20-%20BERT%20Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding.pdf
       name: "reading - Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova - BERT Pre-training of Deep Bidirectional Transformers for Language Understanding.pdf"
-    - url: https://github.com/hertie-dsl-demo-f2025/materials/tree/main/readings/08_nlp-2-encoder-decoder-and-attention
-      name: "reading - browse the folder"
 ---
 

@@ -8,7 +8,5 @@ title: "Lab 4"
 links:
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/labs/04_computer-vision-1-cnns/Lab_Session_4.ipynb
       name: "lab - Lab_Session_4.ipynb"
-    - url: https://github.com/hertie-dsl-demo-f2025/materials/tree/main/labs/04_computer-vision-1-cnns
-      name: "lab - browse the folder"
 ---
 

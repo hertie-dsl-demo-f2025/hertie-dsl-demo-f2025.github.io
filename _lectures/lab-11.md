@@ -8,7 +8,5 @@ title: "Lab 11"
 links:
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/labs/11_deep-learning-in-practice/Lab%20Session%2011%20%28b%29.ipynb
       name: "lab - Lab Session 11 (b).ipynb"
-    - url: https://github.com/hertie-dsl-demo-f2025/materials/tree/main/labs/11_deep-learning-in-practice
-      name: "lab - browse the folder"
 ---
 

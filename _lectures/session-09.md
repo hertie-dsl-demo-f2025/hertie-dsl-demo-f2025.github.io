@@ -8,9 +8,9 @@ title: "Session 9"
 links:
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/09_further-topics/Gawlikowski.pdf
       name: "reading - Gawlikowski.pdf"
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/09_further-topics/references.bib
+      name: "reading - references.bib"
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/09_further-topics/seminar-notes.md
       name: "reading - seminar-notes.md"
-    - url: https://github.com/hertie-dsl-demo-f2025/materials/tree/main/readings/09_further-topics
-      name: "reading - browse the folder"
 ---
 

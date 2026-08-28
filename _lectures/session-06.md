@@ -10,7 +10,5 @@ links:
       name: "lecture - Session6_E1394_DL_Lecture.pdf"
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/lectures/06_sequence-methods-and-time-series/Session6_E1394_DL_preLecture.pdf
       name: "lecture - Session6_E1394_DL_preLecture.pdf"
-    - url: https://github.com/hertie-dsl-demo-f2025/materials/tree/main/lectures/06_sequence-methods-and-time-series
-      name: "lecture - browse the folder"
 ---
 
