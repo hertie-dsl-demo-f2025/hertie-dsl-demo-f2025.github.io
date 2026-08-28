@@ -35,5 +35,7 @@ links:
       name: "reading - On the dangers of stochastic parrots - Can language models be too big.pdf"
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/10_policy-approaches-and-responsible-implementation/understanding_artificial_intelligence_ethics_and_safety.pdf
       name: "reading - understanding_artificial_intelligence_ethics_and_safety.pdf"
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/tree/main/readings/10_policy-approaches-and-responsible-implementation
+      name: "reading - browse the folder"
 ---
 

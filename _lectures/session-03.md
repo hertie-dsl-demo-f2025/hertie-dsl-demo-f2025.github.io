@@ -14,7 +14,11 @@ reading_list: |2
 links:
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/lectures/03_deep-neural-networks-2/Session3_E1394_DL_Lecture.pdf
       name: "lecture - Session3_E1394_DL_Lecture.pdf"
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/tree/main/lectures/03_deep-neural-networks-2
+      name: "lecture - browse the folder"
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/03_deep-neural-networks-2/Stamford%20-%20CS229%20Lecture%20Notes%20-%20Andre%20Ng.pdf
       name: "reading - Stamford - CS229 Lecture Notes - Andre Ng.pdf"
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/tree/main/readings/03_deep-neural-networks-2
+      name: "reading - browse the folder"
 ---
 

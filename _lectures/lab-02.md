@@ -8,5 +8,7 @@ title: "Lab 2"
 links:
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/labs/02_deep-neural-networks-1/Lab_Session_2.ipynb
       name: "lab - Lab_Session_2.ipynb"
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/tree/main/labs/02_deep-neural-networks-1
+      name: "lab - browse the folder"
 ---
 

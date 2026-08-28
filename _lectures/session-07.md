@@ -8,5 +8,7 @@ title: "Session 7"
 links:
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/lectures/07_natural-language-processing-1/Session7_E1394_DL_preLecture.pdf
       name: "lecture - Session7_E1394_DL_preLecture.pdf"
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/tree/main/lectures/07_natural-language-processing-1
+      name: "lecture - browse the folder"
 ---
 
