@@ -7,6 +7,7 @@ date: 2025-10-14T10:00:00
 title: "Lab 6"
 links:
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/labs/06_sequence-methods-and-time-series/Lab_session_6_%26_7.ipynb
-      name: "lab - Lab_session_6_&_7.ipynb"
+      name: "Lab_session_6_&_7.ipynb"
+      section: "lab"
 ---
 

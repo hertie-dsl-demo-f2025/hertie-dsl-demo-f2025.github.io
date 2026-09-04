@@ -7,10 +7,13 @@ date: 2025-11-04T10:00:00
 title: "Session 9"
 links:
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/09_further-topics/Gawlikowski.pdf
-      name: "reading - Gawlikowski.pdf"
+      name: "Gawlikowski.pdf"
+      section: "reading"
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/09_further-topics/references.bib
-      name: "reading - references.bib"
+      name: "references.bib"
+      section: "reading"
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/09_further-topics/seminar-notes.md
-      name: "reading - seminar-notes.md"
+      name: "seminar-notes.md"
+      section: "reading"
 ---
 

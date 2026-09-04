@@ -7,6 +7,7 @@ date: 2025-11-18T10:00:00
 title: "Session 11"
 links:
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/11_deep-learning-in-practice/midterm-guide.pdf
-      name: "reading - midterm-guide.pdf"
+      name: "midterm-guide.pdf"
+      section: "reading"
 ---
 

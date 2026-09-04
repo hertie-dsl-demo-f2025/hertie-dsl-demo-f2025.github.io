@@ -7,6 +7,7 @@ date: 2025-09-16T10:00:00
 title: "Lab 2"
 links:
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/labs/02_deep-neural-networks-1/Lab_Session_2.ipynb
-      name: "lab - Lab_Session_2.ipynb"
+      name: "Lab_Session_2.ipynb"
+      section: "lab"
 ---
 

@@ -7,8 +7,10 @@ date: 2025-10-14T10:00:00
 title: "Session 6"
 links:
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/lectures/06_sequence-methods-and-time-series/Session6_E1394_DL_Lecture.pdf
-      name: "lecture - Session6_E1394_DL_Lecture.pdf"
+      name: "Session6_E1394_DL_Lecture.pdf"
+      section: "lecture"
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/lectures/06_sequence-methods-and-time-series/Session6_E1394_DL_preLecture.pdf
-      name: "lecture - Session6_E1394_DL_preLecture.pdf"
+      name: "Session6_E1394_DL_preLecture.pdf"
+      section: "lecture"
 ---
 
