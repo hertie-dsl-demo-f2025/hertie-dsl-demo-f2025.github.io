@@ -7,4 +7,6 @@ date: 2027-09-01T09:00:00
 hide_time: true
 description: "Cohort archived"
 ---
+{% raw %}
 This cohort is archived on 2027-09-01: every repository in it becomes read-only. You keep read access, so you can still fork or clone anything you want to keep working on into your own account.
+{% endraw %}
