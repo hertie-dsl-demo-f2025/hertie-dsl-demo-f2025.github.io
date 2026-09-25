@@ -3,17 +3,10 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
-type: lecture
+number: 8
 date: 2025-10-28T10:00:00
-title: "Session 8"
-reading_list: |2
-  ### Session 8 readings
-
-  #### Required Readings
-
-  - Vaswani et al. (2017), "Attention Is All You Need". doi:10.48550/arXiv.1706.03762
-  - Devlin et al. (2019), "BERT: Pre-training of Deep Bidirectional Transformers".
-  - Dosovitskiy et al. (2021), "An Image is Worth 16x16 Words". All three PDFs below.
+title: "Lecture 8"
+tabs: [lecture]
 links:
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/lectures/08_nlp-2-encoder-decoder-and-attention/Session8_E1394_DL%20SECOND%20SESSION.pdf
       name: "Session8_E1394_DL SECOND SESSION.pdf"
@@ -29,6 +22,9 @@ links:
       section: "reading"
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/08_nlp-2-encoder-decoder-and-attention/Jacob%20Devlin%2C%20Ming-Wei%20Chang%2C%20Kenton%20Lee%2C%20Kristina%20Toutanova%20-%20BERT%20Pre-training%20of%20Deep%20Bidirectional%20Transformers%20for%20Language%20Understanding.pdf
       name: "Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova - BERT Pre-training of Deep Bidirectional Transformers for Language Understanding.pdf"
+      section: "reading"
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/08_nlp-2-encoder-decoder-and-attention/READINGS.md
+      name: "READINGS.md"
       section: "reading"
 ---
 

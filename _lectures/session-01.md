@@ -3,27 +3,22 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
-type: lecture
+number: 1
 date: 2025-09-09T10:00:00
-title: "Session 1"
-reading_list: |2
-  ### Session 1 readings
-
-  #### Required Readings
-
-  - Chatsiou, K. & Jankin Mikhaylov, S., "Deep Learning for Political Science", in
-    *The SAGE Handbook of Research Methods in Political Science and International
-    Relations*. Available through the Hertie library.
-
-  #### Optional Readings
-
-  - Goodfellow, Bengio & Courville, *Deep Learning*, ch. 1.
-    <https://www.deeplearningbook.org/contents/intro.html>
-
-  *This is a public repository, so copyrighted readings are cited rather than redistributed.*
+title: "Lecture 1"
+tabs: [lecture]
 links:
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/lectures/01_deep-learning-in-public-policy/Session1_E1394_DL_preLecture.pdf
       name: "Session1_E1394_DL_preLecture.pdf"
       section: "lecture"
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/labs/01_deep-learning-in-public-policy/Lab_Session_1.ipynb
+      name: "Lab_Session_1.ipynb"
+      section: "lab"
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/labs/01_deep-learning-in-public-policy/Lab_session_1_Introduction_to_pandas.ipynb
+      name: "Lab_session_1_Introduction_to_pandas.ipynb"
+      section: "lab"
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/01_deep-learning-in-public-policy/READINGS.md
+      name: "READINGS.md"
+      section: "reading"
 ---
 

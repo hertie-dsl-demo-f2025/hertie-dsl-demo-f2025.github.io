@@ -3,21 +3,19 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
-type: lecture
+number: 3
 date: 2025-09-23T10:00:00
-title: "Session 3"
-reading_list: |2
-  ### Session 3 readings
-
-  #### Required Readings
-
-  - Ng, A. & Ma, T., *CS229 Lecture Notes*, Stanford. Sections on backpropagation.
-    Read online: <https://cs229.stanford.edu/main_notes.pdf>
-
-  *This is a public repository, so copyrighted readings are cited rather than redistributed.*
+title: "Lecture 3"
+tabs: [lecture]
 links:
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/lectures/03_deep-neural-networks-2/Session3_E1394_DL_Lecture.pdf
       name: "Session3_E1394_DL_Lecture.pdf"
       section: "lecture"
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/labs/03_deep-neural-networks-2/Lab_Session_3.ipynb
+      name: "Lab_Session_3.ipynb"
+      section: "lab"
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/03_deep-neural-networks-2/READINGS.md
+      name: "READINGS.md"
+      section: "reading"
 ---
 

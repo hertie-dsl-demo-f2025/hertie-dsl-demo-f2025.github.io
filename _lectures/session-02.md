@@ -3,19 +3,19 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
-type: lecture
+number: 2
 date: 2025-09-16T10:00:00
-title: "Session 2"
-reading_list: |2
-  ### Session 2 readings
-
-  Work through the interactive chapters before class - nothing to download:
-
-  https://www.deeplearningbook.org/contents/mlp.html
-  https://playground.tensorflow.org/
+title: "Lecture 2"
+tabs: [lecture]
 links:
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/lectures/02_deep-neural-networks-1/Session2_E1394_DL.pdf
       name: "Session2_E1394_DL.pdf"
       section: "lecture"
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/labs/02_deep-neural-networks-1/Lab_Session_2.ipynb
+      name: "Lab_Session_2.ipynb"
+      section: "lab"
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/02_deep-neural-networks-1/READINGS.md
+      name: "READINGS.md"
+      section: "reading"
 ---
 

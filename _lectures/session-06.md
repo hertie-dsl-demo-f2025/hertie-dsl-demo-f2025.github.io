@@ -3,9 +3,10 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
-type: lecture
+number: 6
 date: 2025-10-14T10:00:00
-title: "Session 6"
+title: "Lecture 6"
+tabs: [lecture]
 links:
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/lectures/06_sequence-methods-and-time-series/Session6_E1394_DL_Lecture.pdf
       name: "Session6_E1394_DL_Lecture.pdf"
@@ -13,5 +14,8 @@ links:
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/lectures/06_sequence-methods-and-time-series/Session6_E1394_DL_preLecture.pdf
       name: "Session6_E1394_DL_preLecture.pdf"
       section: "lecture"
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/labs/06_sequence-methods-and-time-series/Lab_session_6_%26_7.ipynb
+      name: "Lab_session_6_&_7.ipynb"
+      section: "lab"
 ---
 

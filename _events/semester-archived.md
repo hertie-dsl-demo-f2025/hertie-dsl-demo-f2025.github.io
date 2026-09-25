@@ -3,9 +3,8 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: special_event
-type: special_event
 date: 2027-09-01T09:00:00
 hide_time: true
 title: "Semester archived"
-details: "This cohort is archived on 2027-09-01: every repository in it becomes read-only. You keep read access, so you can still fork or clone anything you want to keep working on into your own account."
+details: "This semester is archived on 2027-09-01: every repository in it becomes read-only. You keep read access, so you can still fork or clone anything you want to keep working on into your own account."
 ---
