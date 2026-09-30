@@ -4,21 +4,10 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
 number: 1
-date: 2025-09-09T10:00:00
+date: 2025-09-01T09:00:00
 title: "Lecture 1"
 tabs: [lecture]
-links:
-    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/lectures/01_deep-learning-in-public-policy/Session1_E1394_DL_preLecture.pdf
-      name: "Session1_E1394_DL_preLecture.pdf"
-      section: "lecture"
-    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/labs/01_deep-learning-in-public-policy/Lab_Session_1.ipynb
-      name: "Lab_Session_1.ipynb"
-      section: "lab"
-    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/labs/01_deep-learning-in-public-policy/Lab_session_1_Introduction_to_pandas.ipynb
-      name: "Lab_session_1_Introduction_to_pandas.ipynb"
-      section: "lab"
-    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/readings/01_deep-learning-in-public-policy/READINGS.md
-      name: "READINGS.md"
-      section: "reading"
+unreleased: true
+links: []
 ---
-
+_**Materials for lecture 1 are not yet released** - they will appear in [`materials/SYLLABUS.pdf`](https://github.com/hertie-dsl-demo-f2025/materials) when they are._
