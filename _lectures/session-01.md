@@ -7,7 +7,9 @@ number: 1
 date: 2025-09-01T09:00:00
 title: "Lecture 1"
 tabs: [lecture]
-unreleased: true
-links: []
+links:
+    - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/SYLLABUS.pdf
+      name: "SYLLABUS.pdf"
+      section: "material"
 ---
-_**Materials for lecture 1 are not yet released** - they will appear in [`materials/SYLLABUS.pdf`](https://github.com/hertie-dsl-demo-f2025/materials) when they are._
+
