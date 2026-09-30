@@ -9,11 +9,9 @@ subtitle: "Group project"
 submit_shape: "assignment-repo-private"
 repo_url: "https://github.com/orgs/hertie-dsl-demo-f2025/repositories?q=assignment-3-"
 repo_name: "assignment-3-<your-team>"
-team_join_url: "https://github.com/hertie-dsl-demo-f2025/join/issues/new/choose"
-team_join_closes: "11th Aug"
 due_event:
     kind: due
-    date: 2027-08-01T23:59:00
+    date: 2025-12-09T23:59:00
     title: "Assignment 3"
     subtitle: "Group project"
     submit_shape: "assignment-repo-private"

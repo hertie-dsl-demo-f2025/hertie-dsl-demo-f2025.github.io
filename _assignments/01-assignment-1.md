@@ -11,7 +11,7 @@ repo_url: "https://github.com/orgs/hertie-dsl-demo-f2025/repositories?q=assignme
 repo_name: "assignment-1-<your-handle>"
 due_event:
     kind: due
-    date: 2027-08-01T23:59:00
+    date: 2025-10-14T23:59:00
     title: "Assignment 1"
     subtitle: "Linear regression from scratch"
     submit_shape: "assignment-repo-private"

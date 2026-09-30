@@ -11,7 +11,7 @@ repo_url: "https://github.com/orgs/hertie-dsl-demo-f2025/repositories?q=assignme
 repo_name: "assignment-2-<your-handle>"
 due_event:
     kind: due
-    date: 2027-08-01T23:59:00
+    date: 2025-11-11T23:59:00
     title: "Assignment 2"
     subtitle: "Hackathon showcase"
     submit_shape: "assignment-repo-private"
