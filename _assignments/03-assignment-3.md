@@ -14,6 +14,12 @@ cutoff_sentence: "What is on main at the late cutoff is what is marked."
 late_rule: "10% per day, up to 10 days"
 max_points: "50"
 shape_note: "NB: this repo is private - only you and the instructors can read it."
+team_salt: "hertie-dsl-demo-f2025"
+teams:
+  - name: "team-alpha"
+    members: 1
+    members_sha256: ["f9b5651e7e2daeb3e19bde8b08818b80cf562188801d5eb5a29319f8d8dad52a"]
+    repo_url: "https://github.com/hertie-dsl-demo-f2025/assignment-3-team-alpha"
 due_event:
     kind: due
     date: 2025-12-09T23:59:00
