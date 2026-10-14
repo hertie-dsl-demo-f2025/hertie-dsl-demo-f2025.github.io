@@ -4,6 +4,7 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: assignment
 date: 2025-10-21T14:00:00
+sort_at: 2025-10-21T14:00:00
 title: "Assignment 2"
 subtitle: "Hackathon showcase"
 submit_shape: "assignment-repo-private"
@@ -17,6 +18,7 @@ shape_note: "NB: this repo is private - only you and the instructors can read it
 due_event:
     kind: due
     date: 2025-11-11T23:59:00
+    sort_at: 2025-11-11T23:59:00
     title: "Assignment 2"
     subtitle: "Hackathon showcase"
     submit_shape: "assignment-repo-private"

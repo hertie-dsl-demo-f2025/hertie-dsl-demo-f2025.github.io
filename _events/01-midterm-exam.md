@@ -4,5 +4,6 @@
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: exam
 date: 2025-10-28T10:00:00
+sort_at: 2025-10-28T10:00:00
 title: "Midterm Exam"
 ---

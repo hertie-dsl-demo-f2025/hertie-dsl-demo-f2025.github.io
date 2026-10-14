@@ -5,6 +5,7 @@
 kind: lecture
 number: 5
 date: 2025-10-07T10:00:00
+sort_at: 2025-10-07T10:00:00
 title: "Lecture 5"
 tabs: [lecture]
 links:

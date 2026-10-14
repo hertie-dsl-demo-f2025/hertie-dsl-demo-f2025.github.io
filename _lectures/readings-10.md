@@ -5,6 +5,7 @@
 kind: readings
 number: 10
 date: 2025-11-11T10:00:00
+sort_at: 2025-11-11T10:00:00
 title: "Readings 10"
 tabs: [readings]
 reading_list: |2
