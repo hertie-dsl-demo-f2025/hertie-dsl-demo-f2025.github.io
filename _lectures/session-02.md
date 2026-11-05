@@ -9,13 +9,6 @@ sort_at: 2025-09-16T10:00:00
 title: "Lecture 2"
 tabs: [lecture, readings]
 readings_chip: true
-reading_list: |2
-  ### Session 2 readings
-
-  Work through the interactive chapters before class - nothing to download:
-
-  https://www.deeplearningbook.org/contents/mlp.html
-  https://playground.tensorflow.org/
 links:
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/lectures/02_deep-neural-networks-1/Session2_E1394_DL.pdf
       view_url: https://hertie-dsl-demo-f2025.github.io/files/materials/lectures/02_deep-neural-networks-1/Session2_E1394_DL.pdf

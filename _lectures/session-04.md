@@ -9,22 +9,6 @@ sort_at: 2025-09-30T10:00:00
 title: "Lecture 4"
 tabs: [lecture, readings]
 readings_chip: true
-reading_list: |2
-  ### Session 4 readings
-
-  #### Required Readings
-
-  - Kerner et al. (2020), "Rapid Response Crop Maps in Data Sparse Regions".
-    PDF below, and <https://arxiv.org/abs/2006.16866>
-  - Finer, M. et al. (2018), "Combating deforestation: From satellite to intervention",
-    *Science* 360(6395). Available through the Hertie library.
-
-  #### Optional Readings
-
-  - Zhang et al., *Dive into Deep Learning*, ch. 7 (CNNs).
-    <https://d2l.ai/chapter_convolutional-neural-networks/>
-
-  *This is a public repository, so copyrighted readings are cited rather than redistributed.*
 links:
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/lectures/04_computer-vision-1-cnns/Session4_E1394_DL_preLecture.pdf
       view_url: https://hertie-dsl-demo-f2025.github.io/files/materials/lectures/04_computer-vision-1-cnns/Session4_E1394_DL_preLecture.pdf

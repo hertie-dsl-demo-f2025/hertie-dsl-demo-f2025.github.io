@@ -9,21 +9,6 @@ sort_at: 2025-09-01T09:00:00
 title: "Lecture 1"
 tabs: [lecture, readings]
 readings_chip: true
-reading_list: |2
-  ### Session 1 readings
-
-  #### Required Readings
-
-  - Chatsiou, K. & Jankin Mikhaylov, S., "Deep Learning for Political Science", in
-    *The SAGE Handbook of Research Methods in Political Science and International
-    Relations*. Available through the Hertie library.
-
-  #### Optional Readings
-
-  - Goodfellow, Bengio & Courville, *Deep Learning*, ch. 1.
-    <https://www.deeplearningbook.org/contents/intro.html>
-
-  *This is a public repository, so copyrighted readings are cited rather than redistributed.*
 links:
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/SYLLABUS.pdf
       view_url: https://hertie-dsl-demo-f2025.github.io/files/materials/SYLLABUS.pdf

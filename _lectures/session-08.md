@@ -9,14 +9,6 @@ sort_at: 2025-10-28T10:00:00
 title: "Lecture 8"
 tabs: [lecture, readings]
 readings_chip: true
-reading_list: |2
-  ### Session 8 readings
-
-  #### Required Readings
-
-  - Vaswani et al. (2017), "Attention Is All You Need". doi:10.48550/arXiv.1706.03762
-  - Devlin et al. (2019), "BERT: Pre-training of Deep Bidirectional Transformers".
-  - Dosovitskiy et al. (2021), "An Image is Worth 16x16 Words". All three PDFs below.
 links:
     - url: https://github.com/hertie-dsl-demo-f2025/materials/blob/main/lectures/08_nlp-2-encoder-decoder-and-attention/Session8_E1394_DL%20SECOND%20SESSION.pdf
       view_url: https://hertie-dsl-demo-f2025.github.io/files/materials/lectures/08_nlp-2-encoder-decoder-and-attention/Session8_E1394_DL%20SECOND%20SESSION.pdf
